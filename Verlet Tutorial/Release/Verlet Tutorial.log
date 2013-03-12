@@ -1,0 +1,16 @@
+﻿Построение начато 11.01.2013 23:04:57.
+     1>Проект "D:\Разное\Projects\Verlet Physics\Source\Verlet Tutorial\Verlet Tutorial.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Разное\Projects\Verlet Physics\Source\Release\Some Physics.exe" /INCREMENTAL:NO /NOLOGO opengl32.lib glut32.lib glu32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Разное\Projects\Verlet Physics\Source\Release\Some Physics.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Разное\Projects\Verlet Physics\Source\Release\Some Physics.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Release\Physics.obj
+         Создание кода
+         Создание кода завершено
+         Verlet Tutorial.vcxproj -> D:\Разное\Projects\Verlet Physics\Source\Release\Some Physics.exe
+     1>Построение проекта "D:\Разное\Projects\Verlet Physics\Source\Verlet Tutorial\Verlet Tutorial.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.09

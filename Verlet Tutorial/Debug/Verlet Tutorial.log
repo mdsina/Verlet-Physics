@@ -1,0 +1,17 @@
+﻿Построение начато 09.12.2012 2:15:10.
+     1>Проект "C:\Users\mds\Desktop\7cadc592ffbafcf5ec982c5551c008ea\Source\Verlet Tutorial\Verlet Tutorial.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Physics.cpp
+         Physics.cpp
+         Main.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mds\Desktop\7cadc592ffbafcf5ec982c5551c008ea\Source\Debug\Verlet Article.exe" /INCREMENTAL /NOLOGO opengl32.lib glut32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mds\Desktop\7cadc592ffbafcf5ec982c5551c008ea\Source\Debug\Verlet Article.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mds\Desktop\7cadc592ffbafcf5ec982c5551c008ea\Source\Debug\Verlet Article.lib" /MACHINE:X86 /SAFESEH Debug\Main.obj
+         Debug\Physics.obj
+     1>Main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+         Verlet Tutorial.vcxproj -> C:\Users\mds\Desktop\7cadc592ffbafcf5ec982c5551c008ea\Source\Debug\Verlet Article.exe
+     1>Построение проекта "C:\Users\mds\Desktop\7cadc592ffbafcf5ec982c5551c008ea\Source\Verlet Tutorial\Verlet Tutorial.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.77
